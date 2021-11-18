@@ -1,0 +1,58 @@
+.olympus-font-family {
+	margin-bottom: 12px;
+}
+
+.olympus-weight-transform-wrapper {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+}
+
+.olympus-font-weight,
+.olympus-font-transform {
+    width: calc(50% - 5px);
+}
+
+.customize-control-olympus-customizer-typography .customize-control-title {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+#customize-controls .customize-control-olympus-customizer-typography .description {
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 600;
+    color: #3c434a;
+    margin: 10px 0;
+}
+
+span.select2-container.select2-container--default.select2-container--open li.select2-results__option {
+	margin:0;
+}
+
+span.select2-container.select2-container--default.select2-container--open{
+	z-index:999999;
+}
+
+.select2-selection__rendered li {
+    margin-bottom: 0;
+}
+
+.select2-container--default .select2-selection--single,
+.select2-container--default.select2-container .select2-selection--multiple,
+.select2-dropdown,
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+	border-color: #ddd;
+	border-radius: 0;
+}
+
+.select2-container--default .select2-results__option[aria-selected=true] {
+	color: rgba(0,0,0,0.4);
+}
+
+#customize-control-font_heading_control {
+	margin-top: 20px;
+}

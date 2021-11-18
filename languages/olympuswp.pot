@@ -1,0 +1,506 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/olympuswp\n"
+"POT-Creation-Date: 2021-11-11 23:19:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OlympusWP\n"
+"Language-Team: OlympusWP\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: "
+"_esc_attr__;esc_attr_x;esc_attr_e;esc_html__;esc_html_e;esc_html_x;__;_e;__"
+"ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_"
+"ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:27
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:31
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:35
+msgid "Primary"
+msgstr ""
+
+#: functions.php:89
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:91
+msgid "This sidebar will be used as your main sidebar."
+msgstr ""
+
+#: functions.php:101
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:103 functions.php:115 functions.php:127 functions.php:139
+msgid "This sidebar will be used for your footer."
+msgstr ""
+
+#: functions.php:113
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:125
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:168
+msgid "Open Sub-Menu"
+msgstr ""
+
+#: functions.php:169
+msgid "Close Sub-Menu"
+msgstr ""
+
+#: inc/class-olympus-woocommerce.php:127
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/class-olympus-woocommerce.php:129
+msgid "This sidebar will be used on your products pages."
+msgstr ""
+
+#: inc/controls/class-olympus-range-slider-control.php:67
+msgid "Desktop"
+msgstr ""
+
+#: inc/controls/class-olympus-range-slider-control.php:68
+msgid "Tablet"
+msgstr ""
+
+#: inc/controls/class-olympus-range-slider-control.php:69
+msgid "Mobile"
+msgstr ""
+
+#: inc/controls/class-olympus-range-slider-control.php:70
+msgid "Reset"
+msgstr ""
+
+#: inc/controls/class-olympus-typography-control.php:72
+msgid "System fonts"
+msgstr ""
+
+#: inc/controls/class-olympus-typography-control.php:73
+msgid "Google fonts"
+msgstr ""
+
+#: inc/controls/class-olympus-typography-control.php:75
+msgid "Font family"
+msgstr ""
+
+#: inc/controls/class-olympus-typography-control.php:76
+msgid "Font weight"
+msgstr ""
+
+#: inc/controls/class-olympus-typography-control.php:77
+msgid "Text transform"
+msgstr ""
+
+#: inc/controls/class-olympus-typography-control.php:79
+msgid "Variants"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Hide page title"
+msgstr ""
+
+#: inc/customizer.php:106 inc/template-functions.php:738
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer.php:159 inc/template-functions.php:769
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer.php:162 inc/customizer.php:188 inc/customizer.php:214
+#: inc/customizer.php:242 inc/customizer.php:268 inc/template-functions.php:773
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:163 inc/customizer.php:189 inc/customizer.php:215
+#: inc/customizer.php:243 inc/customizer.php:269
+msgid "Sidebar / Content"
+msgstr ""
+
+#: inc/customizer.php:164 inc/customizer.php:190 inc/customizer.php:216
+#: inc/customizer.php:244 inc/customizer.php:270
+msgid "Content / Sidebar"
+msgstr ""
+
+#: inc/customizer.php:165 inc/customizer.php:191 inc/customizer.php:217
+#: inc/customizer.php:245 inc/customizer.php:271
+msgid "Content (no sidebars)"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "Shop Layout"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Single Product Layout"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Shop Columns"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:385
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Global Color"
+msgstr ""
+
+#: inc/customizer.php:440
+msgid "Global Color Hover"
+msgstr ""
+
+#: inc/customizer.php:462
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:484
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:506
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:528 inc/customizer.php:550
+msgid "Link Color Hover"
+msgstr ""
+
+#: inc/customizer.php:572
+msgid "Blog Post Title Color"
+msgstr ""
+
+#: inc/customizer.php:594
+msgid "Blog Post Title Color Hover"
+msgstr ""
+
+#: inc/customizer.php:616
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer.php:638
+msgid "Button Background Color Hover"
+msgstr ""
+
+#: inc/customizer.php:660
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer.php:682
+msgid "Button Color Hover"
+msgstr ""
+
+#: inc/structure/footer.php:129
+msgid "Built with Olympus"
+msgstr ""
+
+#: inc/structure/footer.php:149
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/structure/header.php:89 inc/structure/header.php:90
+msgid "Skip to content"
+msgstr ""
+
+#: inc/structure/navigation.php:75
+msgid "Menu"
+msgstr ""
+
+#: inc/structure/page-header.php:86
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/structure/page-header.php:95
+msgid "Search Results Found"
+msgstr ""
+
+#: inc/structure/page-header.php:108
+#. translators: used to get the date
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/structure/page-header.php:112
+#. translators: used to get the monthly date
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/structure/page-header.php:116
+#. translators: used to get the yearly date
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/structure/page-header.php:131
+msgid "404: Page Not Found"
+msgstr ""
+
+#: inc/template-functions.php:317
+#. translators: 1: Author name
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/template-functions.php:333 inc/template-functions.php:338
+msgid ", "
+msgstr ""
+
+#: inc/template-functions.php:351
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-functions.php:351
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-functions.php:351
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-functions.php:370
+msgid "Read More &raquo;"
+msgstr ""
+
+#: inc/template-functions.php:418 inc/template-functions.php:424
+#: inc/template-functions.php:534
+#. translators: used to get the icon
+#. translators: right arrow
+msgid "Next %s"
+msgstr ""
+
+#: inc/template-functions.php:420 inc/template-functions.php:426
+#. translators: used to get the icon
+msgid "Previous %s"
+msgstr ""
+
+#: inc/template-functions.php:472 inc/template-functions.php:473
+msgid "Name*"
+msgstr ""
+
+#: inc/template-functions.php:475 inc/template-functions.php:476
+msgid "Email*"
+msgstr ""
+
+#: inc/template-functions.php:478 inc/template-functions.php:479
+msgid "Website"
+msgstr ""
+
+#: inc/template-functions.php:513
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-functions.php:526
+#. translators: left arrow
+msgid "%s Previous"
+msgstr ""
+
+#: inc/template-functions.php:586
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/template-functions.php:587
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/template-functions.php:588
+msgid "Post Comment &raquo;"
+msgstr ""
+
+#: inc/template-functions.php:589
+msgid "Type here.."
+msgstr ""
+
+#: inc/template-functions.php:669
+#. translators: 1: Comment date, 2: Comment time.
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-functions.php:685
+msgid "Edit"
+msgstr ""
+
+#: inc/template-functions.php:705
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-functions.php:772
+msgid "No Sidebars"
+msgstr ""
+
+#: inc/template-functions.php:774
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:775
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/template-functions.php:781
+msgid "Disable Elements"
+msgstr ""
+
+#: inc/template-functions.php:783 inc/template-functions.php:785
+msgid "Content Title"
+msgstr ""
+
+#: inc/typography.php:113
+msgid "Typography"
+msgstr ""
+
+#: inc/typography.php:170
+msgid "Body"
+msgstr ""
+
+#: inc/typography.php:209 inc/typography.php:357 inc/typography.php:504
+#: inc/typography.php:641 inc/typography.php:770 inc/typography.php:899
+#: inc/typography.php:1028
+msgid "Font size"
+msgstr ""
+
+#: inc/typography.php:251 inc/typography.php:398 inc/typography.php:545
+#: inc/typography.php:674 inc/typography.php:803 inc/typography.php:932
+#: inc/typography.php:1061
+msgid "Line height"
+msgstr ""
+
+#: inc/typography.php:319
+msgid "Heading 1 (H1)"
+msgstr ""
+
+#: inc/typography.php:466
+msgid "Heading 2 (H2)"
+msgstr ""
+
+#: inc/typography.php:613
+msgid "Heading 3 (H3)"
+msgstr ""
+
+#: inc/typography.php:742
+msgid "Heading 4 (H4)"
+msgstr ""
+
+#: inc/typography.php:871
+msgid "Heading 5 (H5)"
+msgstr ""
+
+#: inc/typography.php:1000
+msgid "Heading 6 (H6)"
+msgstr ""
+
+#: inc/woocommerce-functions.php:61
+msgid "Out of stock"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#. translators: 1: link to WP admin new post page.
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:29
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/structure/page-header.php:112
+msgctxt "Page title monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/structure/page-header.php:116
+msgctxt "Page title yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-functions.php:540
+msgctxt "prepends the pagination page number for screen readers"
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-single.php:34
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: template-parts/content-single.php:42
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
